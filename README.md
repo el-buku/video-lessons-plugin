@@ -5,5 +5,7 @@ Private Shopify app to sell online lessons as product variants on Shopify. This 
 # Features
 
 React+Polaris shopify embedded admin app
+<br/>
 React + Twilio API live video lessons app
+<br/>
 Python backend server to interact with the Shopify API, Twilio and the 2 front-end apps
